@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /banner.html
+Disallow: /dist
